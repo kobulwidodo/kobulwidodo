@@ -1,6 +1,7 @@
 ## 👋 Hi There!
 
 My name is Rakhmad Giffari Nurfadhilah, and i'm currently studying at Brawijaya University Malang. I'm interested in Backend especially Go and Laravel.
+Have a Good Day!
 
 ## 🌱 Github Values
 
