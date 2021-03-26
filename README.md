@@ -1,4 +1,6 @@
-### 👋 Rakhmad Giffari Nurfadhilah
+### 👋 Hi There!
+
+My name is Rakhmad Giffari Nurfadhilah, and i'm currently studying at Brawijaya University Malang. I'm interested in Backend especially Go and Laravel.
 
 <!--
 **kobulwidodo/kobulwidodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
