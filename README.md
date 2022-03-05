@@ -6,9 +6,9 @@ Have a Good Day!
 ## 📂 Directory
 <pre>
 ├─💼 <b>Experience</b>
-│ ├─💟 <a href="https://www.kawanbantu.com/">Kawanbantu</a>           - <b>Backend Engineering</b>
-│ ├─🔥 <a href="https://bccfilkom.net/">BCC Filkom UB</a>         - <b>Deputy Head of Backend Department</b>
-│ └─👪 <a href="http://kbmti.filkom.ub.ac.id/">KBMTI</a>                - Staff of Development
+│ ├─💟 <a href="https://www.kawanbantu.com/">Kawanbantu</a>                  - <b>Backend Engineering</b>
+│ ├─🔥 <a href="https://bccfilkom.net/">BCC Filkom UB</a>               - <b>Deputy Head of Backend Department</b>
+│ └─👪 <a href="http://kbmti.filkom.ub.ac.id/">EM Teknologi Informasi</a>      - Staff of Development
 │
 ├─🎓 <b>Education & Others</b>
 │ └─🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - <b>Information Technology 2020</b>
