@@ -22,7 +22,7 @@ Have a Good Day!
 │
 ├─📫 <b>Get In Touch</b>
 │ ├─🛄 LinkedIn                - <a href="https://www.linkedin.com/in/rakhmad-giffari-nurfadhilah/">/in/rakhmad-giffari-nurfadhilah</a>
-│ └─🌏 Personal site           - <a href="https://fadhilmail.space/">fadhilmail.space/</a>
+│ └─🌏 Personal site           - <a href="https://fadhilmail.tech/">fadhilmail.tech/</a>
 │ 
 ├─🔥 <b>Check out my pinned repos and see some of my works 😆</b>
 │ 
