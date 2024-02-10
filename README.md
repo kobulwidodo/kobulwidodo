@@ -6,10 +6,10 @@ Have a Good Day!
 ## 📂 Directory
 <pre>
 ├─💼 <b>Experience</b>
+│ ├─🏧 <a href="https://www.ocbc.id/home">OCBC Indonesia</a>              - <b>Software Engineer</b>
 │ ├─🌊 <a href="https://delosaqua.com/">Delos Aqua</a>                  - <b>Software Engineer Intern</b>
 │ ├─💟 <a href="https://www.kawanbantu.com/">Kawanbantu</a>                  - Backend Engineering
-│ ├─🔥 <a href="https://bccfilkom.net/">BCC Filkom UB</a>               - <b>Deputy Head of Backend Department</b>
-│ └─👪 <a href="http://kbmti.filkom.ub.ac.id/">EM Teknologi Informasi</a>      - Staff of Development
+│ ├─🔥 <a href="https://bccfilkom.net/">BCC Filkom UB</a>               - <b>Deputy Head of Backend Department</b>\
 │
 ├─🎓 <b>Education & Others</b>
 │ └─🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - <b>Information Technology 2020</b>
